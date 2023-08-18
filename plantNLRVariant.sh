@@ -15,3 +15,8 @@ echo "Please select the type of the long read assembler that you want to use for
 the long read assembler"
 
 # how to run, download this file and then run the file as the sh plantNLRVariant.sh 
+
+
+
+
+# i will push this code tomorrow as checking it for the version release. 
