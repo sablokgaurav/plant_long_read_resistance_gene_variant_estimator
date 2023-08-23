@@ -14,7 +14,10 @@ and i will add that feature"
 echo "Please select the type of the long read assembler that you want to use for
 the long read assembler"
 
-# how to run, download this file and then run the file as the sh plantNLRVariant.sh 
+# how to run, download this file and then run the file as the sh plantNLRVariant.sh
+echo "wget https://github.com/sablokgaurav/plant_long_read_resistance_gene_variant_estimator/blob/main/PlantNLR_CDS.fasta"
+du -sh PlantNLR_CDS.fasta
+
 
 
 
